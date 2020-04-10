@@ -2,7 +2,7 @@
 
 Silahkan clone repository ini terlebih dahulu dan gunakan repository yang sudah di clone untuk menyimpan kode program yang sudah kamu buat.
 
-Buat sebuah web berbasis React JS dengan fitur sebagai berikut:
+Buat sebuah web dengan fitur sebagai berikut:
 <ol>
     <li>
         register user
