@@ -23,10 +23,10 @@ Buat sebuah web dengan fitur sebagai berikut:
 		management data kota (city)
 	</li>
 	<li>
-		menggunakan management state (redux) untuk menyimpan JWT Token
+		menggunakan management state (redux) jika menggunakan React JS untuk menyimpan JWT Token, untuk php gunakanlah session
 	</li>
 	<li>
-		state harus dibuat persistance agar ketika browser di close token tidak hilang
+		jika menggunakan state harus dibuat persistance agar ketika browser di close token tidak hilang
 	</li>
 	<li>
 		dibuat pengecekan token apakah sudah expired atau belum ketika meload suatu komponen
